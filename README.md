@@ -1,5 +1,10 @@
+
 <a title='LinkedIn' target="_blank" href="https://www.linkedin.com/in/bruno-zutim-40877010a/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a title='Currículo' target="_blank" href="https://github.com/bruzt/site-curriculo/blob/master/src/assets/pdf/bruno-zutim-cv.pdf">
+  <img align="left" alt="Currículo" width="22px" src="https://api.iconify.design/icomoon-free:file-pdf.svg" />
 </a>
 
 <br />
@@ -21,4 +26,3 @@
 <img align="left" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
