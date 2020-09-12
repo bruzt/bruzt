@@ -26,3 +26,17 @@
 <img align="left" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+### Portfólio
+
+<a target="_blank" href="https://github.com/bruzt/exemplo-ecommerce">E-commerce com Express.js (REST) no backend e o framework Next.js (React.js) no frontend</a>
+<br />
+<a target="_blank" href="https://github.com/bruzt/backend-graphql-typeorm">API Node.js escrita com Typescript utilizando GraphQL e o ORM TypeORM com testes utilizando Jest</a>
+<br />
+<a target="_blank" href="https://github.com/bruzt?tab=repositories">Outros</a>
+
+
+
