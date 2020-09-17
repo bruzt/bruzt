@@ -38,7 +38,7 @@
 <br />
 <a target="_blank" href="https://github.com/bruzt/nextjs-styledcomponents-swr-graphql">Interface de login simples para consumir a API GraphQL utilizando o React Hook SWR</a>
 <br />
-<a target="_blank" href="https://github.com/bruzt?tab=repositories">Outros</a>
+<a target="_blank" href="https://github.com/bruzt?tab=repositories">Outros...</a>
 
 
 
