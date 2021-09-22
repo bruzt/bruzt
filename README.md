@@ -36,6 +36,7 @@
 
 <a target="_blank" href="https://github.com/bruzt/backend-graphql-typeorm">API Node.js escrita com Typescript utilizando GraphQL e o ORM TypeORM com testes utilizando Jest</a>
 
+<a target="_blank" href="https://github.com/bruzt/exemplos-react/tree/master/netflix-clone">Clone da homepage da Netflix, consumindo a API do TMDb</a>
 
 <a target="_blank" href="https://github.com/bruzt/rocketseat-nlw-1">NLW #1 - Cadastro de pontos de coleta de recicláveis usando mapas</a>
 
