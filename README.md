@@ -33,14 +33,31 @@
 ### Portfólio
 
 <a target="_blank" href="https://github.com/bruzt/exemplo-ecommerce">E-commerce com Express.js (REST) no backend e o framework Next.js (React.js) no frontend</a>
-<br />
+
 <a target="_blank" href="https://github.com/bruzt/backend-graphql-typeorm">API Node.js escrita com Typescript utilizando GraphQL e o ORM TypeORM com testes utilizando Jest</a>
-<br />
-<!-- 
-<a target="_blank" href="https://github.com/bruzt/nextjs-styledcomponents-swr-graphql">Interface de login simples para consumir a API GraphQL utilizando o React Hook SWR</a>
-<br />
--->
+
+
+<a target="_blank" href="https://github.com/bruzt/rocketseat-nlw-1">NLW #1 - Cadastro de pontos de coleta de recicláveis usando mapas</a>
+
+
+<a target="_blank" href="https://github.com/bruzt/rocketseat-nlw-2-omnistack">NLW #2 - Plataforma de estudos para alunos encontrarem professores</a>
+
+
+<a target="_blank" href="https://github.com/bruzt/rocketseat-nlw-3-omnistack">NLW #3 - Plataforma de cadastro de orfanatos utilizando mapas</a>
+
+
+<a target="_blank" href="https://github.com/bruzt/rocketseat-nlw-4-react">NLW #4 - Site com cronomêtro para fazer pequenos exercicíos com mecânicas de gamificação</a>
+
+
+<a target="_blank" href="https://github.com/bruzt/rocketseat-nlw-5-react">NLW #5 - Site para ouvir podcasts com geração de paginas estáticas (SSG) dos episódios</a>
+
+
+<a target="_blank" href="https://github.com/bruzt/rocketseat-nlw-6-react-firebase">NLW #6 - Site para chat em tempo real utilizando o google firebase para fazer perguntas e respostas</a>
+
+
 <a target="_blank" href="https://github.com/bruzt?tab=repositories">Outros...</a>
+
+
 
 
 
