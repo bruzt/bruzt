@@ -1,4 +1,4 @@
-
+<!---
 <a title='LinkedIn' target="_blank" href="https://www.linkedin.com/in/bruno-zutim-40877010a/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -31,6 +31,7 @@
 <br />
 
 ### Portfólio
+--->
 
 <a target="_blank" href="https://github.com/bruzt/exemplo-ecommerce">E-commerce com Express.js (REST) no backend e o framework Next.js (React.js) no frontend</a>
 
